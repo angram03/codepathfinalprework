@@ -1,11 +1,10 @@
-# codepathfinalprework
-## NAME_OF_YOUR_APP_HERE
+## Hello World App
 
 ### App Description
-`TODO://` Add app description
+`TODO://`using label and button. iphone prototype for hello world!
 
-### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+![](https://i.imgur.com/ioosHLk.gif)
+
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
